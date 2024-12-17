@@ -135,9 +135,4 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ---
 
-## Contact
 
-For any questions or suggestions:
-
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
